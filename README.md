@@ -1,16 +1,17 @@
-### Hi there 👋
+# Fabiano Alencar
 
-<!--
-**fabianobn/fabianobn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Fullstack Developer
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianobn&hide=contribs,prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contatos
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562993830832&text=Ol%C3%A1%20estou%20vindo%20do%20seu%20perfil%20no%20github)](https://api.whatsapp.com/send?phone=5562993830832&text=Ol%C3%A1%20estou%20vindo%20do%20seu%20perfil%20no%20github)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianoalencar/)](https://www.linkedin.com/in/fabianoalencar/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianocarvalho15@gmail.com)](mailto:fabianocarvalho15@gmail.com)
+
+[![](https://img.shields.io/badge/Site-https://fabianoalencar.dev&link=https://fabianoalencar.dev)](https://fabianoalencar.dev)
+
+# 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fabianobn.visitor-badge)
