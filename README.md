@@ -5,6 +5,8 @@
 - Wordpress
 - React Native
 - VueJS
+- NodeJS
+- ReactJS
 - PHP, CSS, JS
 
 ### Projetos Open
