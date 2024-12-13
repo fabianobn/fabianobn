@@ -15,9 +15,9 @@
 - Tainacan [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/tainacan/tainacan-theme)
 
 ### Outros Projetos
-- Bretas [Site](https://www.bretas.com.br)
-- SysCFC [Site/Sistema](https://www.syscfc.com.br)
-- CFC Novais [Site/Sistema](https://www.cfcnovais.com.br)
+- Suita Concepts [Site](https://www.suitaconcepts.com.br)
+- SysCFC [Website/Sistema](https://www.syscfc.com.br)
+- CFC Novais [Website/Sistema](https://www.cfcnovais.com.br)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianobn&hide=contribs,prs)
 
